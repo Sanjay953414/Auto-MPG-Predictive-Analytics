@@ -1,0 +1,5 @@
+cylinders': [6]
+displacement': [225]
+horsepower': [100]
+weight': [3233]
+acceleration': [15.4]
